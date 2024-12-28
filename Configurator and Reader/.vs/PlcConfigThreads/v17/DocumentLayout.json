@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|c:\\users\\rakes\\source\\repos\\plcconfigthreads\\plcconfigthreads\\plcconfigform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|solutionrelative:plcconfigthreads\\plcconfigform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|c:\\users\\rakes\\source\\repos\\plcconfigthreads\\plcconfigthreads\\tagconfigform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|solutionrelative:plcconfigthreads\\tagconfigform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|c:\\users\\rakes\\source\\repos\\plcconfigthreads\\plcconfigthreads\\tagconfigform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|solutionrelative:plcconfigthreads\\tagconfigform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|c:\\users\\rakes\\source\\repos\\plcconfigthreads\\plcconfigthreads\\plcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|solutionrelative:plcconfigthreads\\plcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\plcconfigthreads\\plcconfigform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|solutionrelative:plcconfigthreads\\plcconfigform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|c:\\users\\rakes\\source\\repos\\plcconfigthreads\\plcconfigthreads\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|solutionrelative:plcconfigthreads\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\plcconfigthreads\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A5F71A9-D0EB-43B7-A171-D13CE818FEA6}|PlcConfigThreads\\PlcConfigThreads.csproj|solutionrelative:plcconfigthreads\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 401,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlcConfigForm.cs",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\PlcConfigForm.cs",
+              "RelativeDocumentMoniker": "PlcConfigThreads\\PlcConfigForm.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\PlcConfigForm.cs",
+              "RelativeToolTip": "PlcConfigThreads\\PlcConfigForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:14:38.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlcConfigForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\PlcConfigForm.cs",
+              "RelativeDocumentMoniker": "PlcConfigThreads\\PlcConfigForm.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\PlcConfigForm.cs [Design]",
+              "RelativeToolTip": "PlcConfigThreads\\PlcConfigForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:14:26.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlcModel.cs",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\PlcModel.cs",
+              "RelativeDocumentMoniker": "PlcConfigThreads\\PlcModel.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\PlcModel.cs",
+              "RelativeToolTip": "PlcConfigThreads\\PlcModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:54:51.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TagConfigForm.cs",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\TagConfigForm.cs",
+              "RelativeDocumentMoniker": "PlcConfigThreads\\TagConfigForm.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\TagConfigForm.cs",
+              "RelativeToolTip": "PlcConfigThreads\\TagConfigForm.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAmwHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:10:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TagConfigForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\TagConfigForm.cs",
+              "RelativeDocumentMoniker": "PlcConfigThreads\\TagConfigForm.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\TagConfigForm.cs [Design]",
+              "RelativeToolTip": "PlcConfigThreads\\TagConfigForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:10:07.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\Form1.cs",
+              "RelativeDocumentMoniker": "PlcConfigThreads\\Form1.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\Form1.cs",
+              "RelativeToolTip": "PlcConfigThreads\\Form1.cs",
+              "ViewState": "AQIAAFIBAAAAAAAAAAAAwJ4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:00:00.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\Form1.cs",
+              "RelativeDocumentMoniker": "PlcConfigThreads\\Form1.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\PlcConfigThreads\\PlcConfigThreads\\Form1.cs [Design]",
+              "RelativeToolTip": "PlcConfigThreads\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:37:14.663Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 95,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
